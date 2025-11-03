@@ -1,5 +1,3 @@
-Here’s a **short, professional-level summary version** of your document 👇
-It keeps all key concepts but is concise and clear — ideal for README or technical notes.
 
 ---
 
